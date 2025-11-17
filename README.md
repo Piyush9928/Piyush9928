@@ -35,7 +35,11 @@ I'm a passionate and curious developer focused on *Full Stack Web Development, *
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
+![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=Power-BI&logoColor=black)  
+![Tableau](https://img.shields.io/badge/-Tableau-005571?style=flat&logo=Tableau&logoColor=white)  
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  
+
 
 ---
 
@@ -61,7 +65,7 @@ I'm a passionate and curious developer focused on *Full Stack Web Development, *
 
 ## 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/piyush-singh-90b5bb2b0)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-singh-90b5bb2b0/)
 
 ---
 
